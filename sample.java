@@ -4,5 +4,6 @@ public class sample
  {
   System.out.println("demo");
   System.out.println("2nd line");
+  System.out.println("3rd line");
   }
  } 
